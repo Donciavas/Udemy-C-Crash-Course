@@ -1,0 +1,16 @@
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\bin\Debug\net5.0\HammerBitcoin.exe
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\bin\Debug\net5.0\HammerBitcoin.deps.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\bin\Debug\net5.0\HammerBitcoin.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\bin\Debug\net5.0\HammerBitcoin.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\bin\Debug\net5.0\HammerBitcoin.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\bin\Debug\net5.0\ref\HammerBitcoin.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\bin\Debug\net5.0\HammerBitcoin.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\obj\Debug\net5.0\HammerBitcoin.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\obj\Debug\net5.0\HammerBitcoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\obj\Debug\net5.0\HammerBitcoin.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\obj\Debug\net5.0\HammerBitcoin.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\obj\Debug\net5.0\HammerBitcoin.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\obj\Debug\net5.0\HammerBitcoin.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\obj\Debug\net5.0\ref\HammerBitcoin.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\obj\Debug\net5.0\HammerBitcoin.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\HammerBitcoin\HammerBitcoin\obj\Debug\net5.0\HammerBitcoin.genruntimeconfig.cache

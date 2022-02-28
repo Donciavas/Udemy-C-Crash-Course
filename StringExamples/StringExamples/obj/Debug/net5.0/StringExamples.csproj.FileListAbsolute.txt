@@ -1,0 +1,16 @@
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\obj\Debug\net5.0\StringExamples.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\obj\Debug\net5.0\StringExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\obj\Debug\net5.0\StringExamples.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\obj\Debug\net5.0\StringExamples.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\obj\Debug\net5.0\StringExamples.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\bin\Debug\net5.0\StringExamples.exe
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\bin\Debug\net5.0\StringExamples.deps.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\bin\Debug\net5.0\StringExamples.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\bin\Debug\net5.0\StringExamples.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\bin\Debug\net5.0\StringExamples.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\bin\Debug\net5.0\ref\StringExamples.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\bin\Debug\net5.0\StringExamples.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\obj\Debug\net5.0\StringExamples.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\obj\Debug\net5.0\ref\StringExamples.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\obj\Debug\net5.0\StringExamples.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\StringExamples\StringExamples\obj\Debug\net5.0\StringExamples.genruntimeconfig.cache

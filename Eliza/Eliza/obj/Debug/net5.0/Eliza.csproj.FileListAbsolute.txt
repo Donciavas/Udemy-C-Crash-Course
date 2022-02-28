@@ -1,0 +1,16 @@
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\bin\Debug\net5.0\Eliza.exe
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\bin\Debug\net5.0\Eliza.deps.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\bin\Debug\net5.0\Eliza.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\bin\Debug\net5.0\Eliza.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\bin\Debug\net5.0\Eliza.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\bin\Debug\net5.0\ref\Eliza.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\bin\Debug\net5.0\Eliza.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\obj\Debug\net5.0\Eliza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\obj\Debug\net5.0\Eliza.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\obj\Debug\net5.0\Eliza.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\obj\Debug\net5.0\Eliza.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\obj\Debug\net5.0\Eliza.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\obj\Debug\net5.0\ref\Eliza.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\obj\Debug\net5.0\Eliza.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\obj\Debug\net5.0\Eliza.genruntimeconfig.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Eliza\Eliza\obj\Debug\net5.0\Eliza.csproj.AssemblyReference.cache

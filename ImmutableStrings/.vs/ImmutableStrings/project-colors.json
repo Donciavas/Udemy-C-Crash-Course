@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d5578d4c-47df-4f87-b8cd-a2c2ec3d4123": {
+      "ProjectGuid": "d5578d4c-47df-4f87-b8cd-a2c2ec3d4123",
+      "DisplayName": "ImmutableStrings",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,16 @@
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\bin\Debug\net5.0\BoolExp.exe
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\bin\Debug\net5.0\BoolExp.deps.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\bin\Debug\net5.0\BoolExp.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\bin\Debug\net5.0\BoolExp.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\bin\Debug\net5.0\BoolExp.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\bin\Debug\net5.0\ref\BoolExp.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\bin\Debug\net5.0\BoolExp.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\obj\Debug\net5.0\BoolExp.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\obj\Debug\net5.0\BoolExp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\obj\Debug\net5.0\BoolExp.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\obj\Debug\net5.0\BoolExp.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\obj\Debug\net5.0\BoolExp.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\obj\Debug\net5.0\BoolExp.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\obj\Debug\net5.0\ref\BoolExp.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\obj\Debug\net5.0\BoolExp.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BoolExp\BoolExp\obj\Debug\net5.0\BoolExp.genruntimeconfig.cache

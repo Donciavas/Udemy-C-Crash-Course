@@ -1,0 +1,16 @@
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\bin\Debug\net5.0\CarGame.exe
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\bin\Debug\net5.0\CarGame.deps.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\bin\Debug\net5.0\CarGame.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\bin\Debug\net5.0\CarGame.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\bin\Debug\net5.0\CarGame.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\bin\Debug\net5.0\ref\CarGame.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\bin\Debug\net5.0\CarGame.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\obj\Debug\net5.0\CarGame.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\obj\Debug\net5.0\CarGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\obj\Debug\net5.0\CarGame.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\obj\Debug\net5.0\CarGame.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\obj\Debug\net5.0\CarGame.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\obj\Debug\net5.0\CarGame.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\obj\Debug\net5.0\ref\CarGame.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\obj\Debug\net5.0\CarGame.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\CarGame\CarGame\obj\Debug\net5.0\CarGame.genruntimeconfig.cache

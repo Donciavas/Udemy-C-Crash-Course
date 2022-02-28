@@ -1,0 +1,16 @@
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\obj\Debug\net5.0\Ternary.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\obj\Debug\net5.0\Ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\obj\Debug\net5.0\Ternary.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\obj\Debug\net5.0\Ternary.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\obj\Debug\net5.0\Ternary.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\bin\Debug\net5.0\Ternary.exe
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\bin\Debug\net5.0\Ternary.deps.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\bin\Debug\net5.0\Ternary.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\bin\Debug\net5.0\Ternary.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\bin\Debug\net5.0\Ternary.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\bin\Debug\net5.0\ref\Ternary.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\bin\Debug\net5.0\Ternary.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\obj\Debug\net5.0\Ternary.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\obj\Debug\net5.0\ref\Ternary.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\obj\Debug\net5.0\Ternary.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Ternary\Ternary\obj\Debug\net5.0\Ternary.genruntimeconfig.cache

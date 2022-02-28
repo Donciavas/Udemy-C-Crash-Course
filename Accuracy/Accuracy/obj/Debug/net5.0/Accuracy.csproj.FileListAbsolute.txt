@@ -1,0 +1,16 @@
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\bin\Debug\net5.0\Accuracy.exe
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\bin\Debug\net5.0\Accuracy.deps.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\bin\Debug\net5.0\Accuracy.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\bin\Debug\net5.0\Accuracy.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\bin\Debug\net5.0\Accuracy.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\bin\Debug\net5.0\ref\Accuracy.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\bin\Debug\net5.0\Accuracy.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\obj\Debug\net5.0\Accuracy.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\obj\Debug\net5.0\Accuracy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\obj\Debug\net5.0\Accuracy.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\obj\Debug\net5.0\Accuracy.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\obj\Debug\net5.0\Accuracy.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\obj\Debug\net5.0\Accuracy.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\obj\Debug\net5.0\ref\Accuracy.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\obj\Debug\net5.0\Accuracy.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\Accuracy\Accuracy\obj\Debug\net5.0\Accuracy.genruntimeconfig.cache

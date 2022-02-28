@@ -1,0 +1,16 @@
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\bin\Debug\net5.0\ClassesIntro.exe
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\bin\Debug\net5.0\ClassesIntro.deps.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\bin\Debug\net5.0\ClassesIntro.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\bin\Debug\net5.0\ClassesIntro.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\bin\Debug\net5.0\ClassesIntro.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\bin\Debug\net5.0\ref\ClassesIntro.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\bin\Debug\net5.0\ClassesIntro.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\obj\Debug\net5.0\ClassesIntro.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\obj\Debug\net5.0\ClassesIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\obj\Debug\net5.0\ClassesIntro.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\obj\Debug\net5.0\ClassesIntro.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\obj\Debug\net5.0\ClassesIntro.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\obj\Debug\net5.0\ClassesIntro.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\obj\Debug\net5.0\ref\ClassesIntro.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\obj\Debug\net5.0\ClassesIntro.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ClassesIntro\ClassesIntro\obj\Debug\net5.0\ClassesIntro.genruntimeconfig.cache

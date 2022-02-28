@@ -1,0 +1,16 @@
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\bin\Debug\net5.0\SimpleMenu.exe
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\bin\Debug\net5.0\SimpleMenu.deps.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\bin\Debug\net5.0\SimpleMenu.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\bin\Debug\net5.0\SimpleMenu.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\bin\Debug\net5.0\SimpleMenu.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\bin\Debug\net5.0\ref\SimpleMenu.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\bin\Debug\net5.0\SimpleMenu.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\obj\Debug\net5.0\SimpleMenu.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\obj\Debug\net5.0\SimpleMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\obj\Debug\net5.0\SimpleMenu.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\obj\Debug\net5.0\SimpleMenu.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\obj\Debug\net5.0\SimpleMenu.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\obj\Debug\net5.0\SimpleMenu.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\obj\Debug\net5.0\ref\SimpleMenu.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\obj\Debug\net5.0\SimpleMenu.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\SimpleMenu\SimpleMenu\obj\Debug\net5.0\SimpleMenu.genruntimeconfig.cache

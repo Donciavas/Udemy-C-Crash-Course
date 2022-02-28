@@ -1,0 +1,16 @@
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\bin\Debug\net5.0\ListSearch.exe
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\bin\Debug\net5.0\ListSearch.deps.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\bin\Debug\net5.0\ListSearch.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\bin\Debug\net5.0\ListSearch.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\bin\Debug\net5.0\ListSearch.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\bin\Debug\net5.0\ref\ListSearch.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\bin\Debug\net5.0\ListSearch.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\obj\Debug\net5.0\ListSearch.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\obj\Debug\net5.0\ListSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\obj\Debug\net5.0\ListSearch.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\obj\Debug\net5.0\ListSearch.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\obj\Debug\net5.0\ListSearch.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\obj\Debug\net5.0\ListSearch.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\obj\Debug\net5.0\ref\ListSearch.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\obj\Debug\net5.0\ListSearch.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ListSearch\ListSearch\obj\Debug\net5.0\ListSearch.genruntimeconfig.cache

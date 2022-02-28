@@ -1,0 +1,16 @@
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.exe
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\bin\Debug\net5.0\ref\ForLoop.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache

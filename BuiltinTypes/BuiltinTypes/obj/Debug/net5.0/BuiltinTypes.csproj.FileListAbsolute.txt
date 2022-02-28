@@ -1,0 +1,15 @@
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\bin\Debug\net5.0\BuiltinTypes.exe
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\bin\Debug\net5.0\BuiltinTypes.deps.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\bin\Debug\net5.0\BuiltinTypes.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\bin\Debug\net5.0\BuiltinTypes.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\bin\Debug\net5.0\BuiltinTypes.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\bin\Debug\net5.0\ref\BuiltinTypes.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\bin\Debug\net5.0\BuiltinTypes.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\obj\Debug\net5.0\BuiltinTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\obj\Debug\net5.0\BuiltinTypes.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\obj\Debug\net5.0\BuiltinTypes.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\obj\Debug\net5.0\BuiltinTypes.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\obj\Debug\net5.0\BuiltinTypes.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\obj\Debug\net5.0\ref\BuiltinTypes.dll
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\obj\Debug\net5.0\BuiltinTypes.pdb
+C:\Users\dvitk\OneDrive\Documents\Udemy C#\BuiltinTypes\BuiltinTypes\obj\Debug\net5.0\BuiltinTypes.genruntimeconfig.cache
